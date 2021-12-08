@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="mtalham/mtalham"><img src="https://github.com/mtalham/mtalham/blob/master/devcard.svg" width="400" alt="Talha's Dev Card"/></a>
+<a href="https://github.com/mtalham/mtalham"><img src="https://github.com/mtalham/mtalham/blob/main/devcard.svg" width="400" alt="Talha's Dev Card"/></a>
 <!--
 **mtalham/mtalham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
